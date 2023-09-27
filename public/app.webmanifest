@@ -1,0 +1,15 @@
+{
+  "name": "Oryfox",
+  "theme_color": "#134E4A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+   }
+  ]
+}
